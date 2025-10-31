@@ -1,0 +1,6 @@
+Laptop,850.99,5
+Mouse,25.50,20
+Teclado,45.00,15
+Corneta,55.0,7
+Mesa,200,24
+Lampara,68.5,5
